@@ -6,7 +6,7 @@ import Thanks from './components/Thanks'
 import {Switch,Route} from "react-router-dom";
 
 export const config = {
-  endpoint: `https://qkart-frontend-10h6.onrender.com/api/v1`,
+  endpoint: `https://qkart-frontend-6178.onrender.com`,
 };
 
 function App() {
